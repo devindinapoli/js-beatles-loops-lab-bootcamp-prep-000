@@ -11,7 +11,7 @@ function johnLennonFacts(facts) {
   const shoutFacts = []
   let i = 0 
   
-  while (i < shoutFacts.length) {
+  while (i < facts.length) {
     shoutFacts.push(`${facts[]}!!!`)
     i++
   }
