@@ -24,7 +24,7 @@ function iLoveTheBeatles(n) {
   const count = []
   
   do {
-    count.push("I love the Beatles") 
+    count.push("I love the Beatles!") 
     n++ 
   }
     while (n < 15)
