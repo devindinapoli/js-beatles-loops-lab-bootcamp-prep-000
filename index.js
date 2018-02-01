@@ -11,5 +11,5 @@ function johnLennonFacts(facts) {
   const shoutFacts = []
   let i = 0 
   
-  while ()
+  while (i < shoutFacts.length)
 }
