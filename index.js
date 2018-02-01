@@ -26,7 +26,10 @@ function iLoveTheBeatles(n) {
   do {
     count.push("I love the Beatles") 
     n++ 
-    while 
+  }
+    while {
+      n <
+    }
     
   }
 }
