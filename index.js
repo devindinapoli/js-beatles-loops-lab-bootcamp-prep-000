@@ -20,3 +20,10 @@ function johnLennonFacts(facts) {
   return shoutFacts
 }
 
+function iLoveTheBeatles(n) {
+  const count = []
+  
+  while (n < 15) {
+    
+  }
+}
