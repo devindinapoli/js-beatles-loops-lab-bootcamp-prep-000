@@ -23,7 +23,7 @@ function johnLennonFacts(facts) {
 function iLoveTheBeatles(n) {
   const count = []
   
-  while (n < 15) {
+  do 
     
   }
 }
